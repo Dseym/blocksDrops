@@ -1,0 +1,6 @@
+name: dropsBlocks
+version: 1.0
+main: dropsBlocks.main
+commands:
+  start:
+    usage: /start
