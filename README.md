@@ -8,7 +8,7 @@ A plugin that will remove blocks under you! Make minecraft more difficult! HARDC
 3. Now you have the code that you can edit!
 
 # Install for Server
-1. Download the compiled [blocksDrops](https://github.com/Dseym/Vampire/releases/download/Vampire/Vampire.jar) and upload it to your server.
+1. Download the compiled [blocksDrops](https://github.com/Dseym/blocksDrops/releases/download/blocksDrops/dropsblocks.jar) and upload it to your server.
 2. Have fun!
 
 ## RUS
@@ -18,7 +18,7 @@ A plugin that will remove blocks under you! Make minecraft more difficult! HARDC
 3. Теперь у Вас есть код для редактирования!
 
 # Установка на сервер
-1. Скачайте скомпилированный [blocksDrops](https://github.com/Dseym/Vampire/releases/download/Vampire/Vampire.jar) и загрузите на свой сервер.
+1. Скачайте скомпилированный [blocksDrops](https://github.com/Dseym/blocksDrops/releases/download/blocksDrops/dropsblocks.jar) и загрузите на свой сервер.
 2. Веселитесь!
 
 Для свободного использование.
